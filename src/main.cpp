@@ -1,7 +1,4 @@
-﻿// main.cpp : Defines the entry point for the application.
-//
-
-#include "main.h"
+﻿#include <iostream>
 
 int main(int argc, char* argv[]) {
   std::cout << "Hello World\n";

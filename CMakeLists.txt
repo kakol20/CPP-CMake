@@ -14,7 +14,7 @@ project ("C++ CMake Template")
 # set(CPPTemplate "C++ CMake Template")
 
 # Add source to this project's executable.
-add_executable (CPPTemplate "src/main.h" 
+add_executable (CPPTemplate  
 	"src/main.cpp")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
